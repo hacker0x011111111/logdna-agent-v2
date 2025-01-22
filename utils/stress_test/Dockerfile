@@ -1,4 +1,4 @@
-FROM python:3.8-slim AS base
+FROM python:3.14.0a1-slim AS base
 
 WORKDIR /opt/stress_test
 
